@@ -1,2 +1,2 @@
-# BASH-Automation
-OS Semester Project
+# Bash-Automation
+Operating Systems Semester Project
